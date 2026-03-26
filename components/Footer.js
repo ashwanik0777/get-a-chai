@@ -13,6 +13,7 @@ const Footer = () => {
         </p>
         <p className='text-center'>copyright &copy; {currentYear} Get me a chai - All rights reserved!</p>
       </footer>
+
     </>
   )
 }
